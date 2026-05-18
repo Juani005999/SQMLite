@@ -84,32 +84,34 @@ Voici l'échelle de Bortle utilisée dans l'application.
 
 | Composant | Prix | Nb. pièces | Prix unitaire |
 | --- | --- | --- | --- |
-| [ESP32 with Battery](https://www.amazon.fr/dp/B07YXFBFWF) | 18.77 € | 1 | 18.77 € |
-| [TSL2591](https://www.amazon.fr/dp/B00XW2OFWW) | 15.10 € | 1 | 15.10 € |
-| [BME280](https://www.amazon.fr/dp/B07HMQMW6M?th=1) | 30.99 € | 5 | 6.20 € |
-| [TFT ST7735](https://www.amazon.fr/AZDelivery-TFT-Compatible-Raspberry-incluant/dp/B07TJGF8HS/ref=sr_1_1) | 27.99 € | 5 | 5.60 € |
-| [Joystick](https://www.amazon.fr/Gebildet-Joystick-Commande-Contr%C3%B4leur-Raspberry/dp/B0DPMN19G6/ref=sr_1_1_sspa) | 10.99 € | 8 | 1.37 € |
+| ESP32 with Battery (USB-C) | 18.77 € | 1 | 18.77 € |
+| [TSL2591](https://www.amazon.fr/dp/B0GGD3FNKM) | 12.69 € | 1 | 12.69 € |
+| [BME280](https://www.amazon.fr/dp/B07HMQMW6M) | 39.48 € | 5 | 7.90 € |
+| [TFT ST7735](https://www.amazon.fr/AZDelivery-TFT-Compatible-Raspberry-incluant/dp/B07TJGF8HS) | 27.99 € | 5 | 5.60 € |
+| [Lentille D23 F30](https://www.amazon.fr/Lentille-biconvexe-Double-Convexe-Optique/dp/B0GVHDZD22) | 25.94 € | 1 | 25.94 € |
+| [Joystick](https://www.amazon.fr/Gebildet-Joystick-Commande-Contr%C3%B4leur-Raspberry/dp/B0DPMN19G6) | 10.99 € | 8 | 1.37 € |
 | [Boot Button](https://www.amazon.fr/dp/B07S1MNB8C) | 10.99 € | 5 | 2.20 € |
-| [Interrupteur à bascule](https://www.amazon.fr/dp/B076VKRKQQ) | 6.49 € | 5 | 1.30 € |
-| [Rallonge USB-C](https://www.amazon.fr/dp/B08HCTZ9P5) | 11.79 € | 2 | 5.90 € |
-| [Testeur de capacité](https://www.amazon.fr/dp/B0DKHT664R) | 13.19 € | 4 | 3.30 € |
-| | | Total | **59.74 €** |
+| [Interrupteur à bascule](https://www.amazon.fr/dp/B076VKRKQQ) | 7.49 € | 5 | 1.50 € |
+| [Rallonge USB-C](https://www.amazon.fr/Cablecc-3-1-type-femelle-donn%C3%A9es-dextension/dp/B075P2FF7L) | 17.56 € | 2 | 5.90 € |
+| [Testeur de capacité](https://www.amazon.fr/dp/B0DKHT664R) | 12.79 € | 4 | 3.20 € |
+| | | Total | **85.07 €** |
 
 <p align="right"><a href="#sommaire">Retour au sommaire</a></p>
 
 ### Ali Express
 | Composant | Prix | Nb. pièces | Prix unitaire |
 | --- | --- | --- | --- |
-| [ESP32 with Battery (USB-C)](https://fr.aliexpress.com/item/1005007579177706.html) | 4.19 € | 1 | 4.19 € |
-| [TSL2591](https://fr.aliexpress.com/item/1005009290610834.html) | 4.19 € | 1 | 4.19 € |
-| [BME280](https://fr.aliexpress.com/item/1005010256393146.html) | 2.99 € | 1 | 2.99 € |
-| [TFT ST7735](https://fr.aliexpress.com/item/1005008974306385.html) | 3.20 € | 1 | 3.20 € |
-| [Joystick](https://fr.aliexpress.com/item/1005009123774307.html) | 0.51 € | 1 | 0.51 € |
-| [Boot Button](https://fr.aliexpress.com/item/1005007876916629.html) | 6.69 € | 5 | 1.34 € |
-| [Interrupteur à bascule](https://fr.aliexpress.com/item/1005010311259797.html) | 1.65 € | 10 | 0.17 € |
-| [Rallonge USB-C](https://fr.aliexpress.com/item/1005005292730047.html) | 1.09 € | 1 | 1.09 € |
+| [ESP32 with Battery (USB-C)](https://fr.aliexpress.com/item/1005007579177706.html) | 5.09 € | 1 | 5.09 € |
+| [TSL2591](https://fr.aliexpress.com/item/1005009222536594.html) | 3.79 € | 1 | 3.79 € |
+| [BME280](https://fr.aliexpress.com/item/1005010256393146.html) | 4.59 € | 1 | 4.59 € |
+| [TFT ST7735](https://fr.aliexpress.com/item/1005008974306385.html) | 3.29 € | 1 | 3.29 € |
+| [Lentille D23 F30](https://fr.aliexpress.com/item/1005007033633969.html) | 2.33 € | 1 | 2.33 € |
+| [Joystick](https://fr.aliexpress.com/item/1005009009852719.html) | 0.46 € | 1 | 0.46 € |
+| [Boot Button](https://fr.aliexpress.com/item/1005007876916629.html) | 26.19 € | 20 | 1.31 € |
+| [Interrupteur à bascule](https://fr.aliexpress.com/item/1005010311259797.html) | 1.79 € | 10 | 0.18 € |
+| [Rallonge USB-C 0.2m](https://fr.aliexpress.com/item/1005005292730047.html) | 1.71 € | 1 | 1.71 € |
 | [Testeur de capacité](https://fr.aliexpress.com/item/1005006350742151.html) | 1.45 € | 1 | 1.45 € |
-| | | Total | **19.13 €** |
+| | | Total | **24.20 €** |
 
 <p align="right"><a href="#sommaire">Retour au sommaire</a></p>
 
