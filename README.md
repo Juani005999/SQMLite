@@ -40,6 +40,7 @@
     - [Utilisation dans NINA](#utilisation-dans-nina)
         - [Sélection du SQMLite dans NINA](#sélection-du-sqmlite-dans-nina)
         - [Première utilisation dans NINA](#première-utilisation-dans-nina)
+- [Retex](#retex)
 - [Révisions](#révisions)
 
 ## Description
