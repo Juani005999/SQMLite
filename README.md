@@ -92,9 +92,9 @@ Voici l'échelle de Bortle utilisée dans l'application.
 | [Joystick](https://www.amazon.fr/Gebildet-Joystick-Commande-Contr%C3%B4leur-Raspberry/dp/B0DPMN19G6) | 10.99 € | 8 | 1.37 € |
 | [Boot Button](https://www.amazon.fr/dp/B07S1MNB8C) | 10.99 € | 5 | 2.20 € |
 | [Interrupteur à bascule](https://www.amazon.fr/dp/B076VKRKQQ) | 7.49 € | 5 | 1.50 € |
-| [Rallonge USB-C](https://www.amazon.fr/Cablecc-3-1-type-femelle-donn%C3%A9es-dextension/dp/B075P2FF7L) | 17.56 € | 2 | 5.90 € |
+| [Rallonge USB-C](https://www.amazon.fr/Cablecc-3-1-type-femelle-donn%C3%A9es-dextension/dp/B075P2FF7L) | 17.56 € | 1 | 17.56 € |
 | [Testeur de capacité](https://www.amazon.fr/dp/B0DKHT664R) | 12.79 € | 4 | 3.20 € |
-| | | Total | **85.07 €** |
+| | | Total | **96.73 €** |
 
 <p align="right"><a href="#sommaire">Retour au sommaire</a></p>
 
