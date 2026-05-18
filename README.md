@@ -450,7 +450,7 @@ Dans la boîte de dialogue qui s'ouvre, sélectionnez le périphérique "***SQM 
 Voilà, vous pouvez désormais profiter des données du **SQMLite - Sky Quality Meter** dans NINA.\
 Enjoy
 
-![NINA démo](screenshots/NINA_demo.png)
+![NINA démo](screenshots/NINA_Demo.png)
 
 <p align="right"><b><i>Juanito del Pepito</i></b></p>
 
